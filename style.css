@@ -487,11 +487,11 @@ footer{
     .BlockText img {
         margin-left: 24%;
         margin-right: 2rem;
-        width: 85%;
+        width: 75%;
     }
 
     #BlockText-medium > div > img {
-        margin-left: 2rem;
+        margin-left: 0rem;
         margin-right: 24%;
         width: 80%;
     }
