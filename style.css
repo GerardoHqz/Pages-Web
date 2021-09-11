@@ -483,6 +483,18 @@ footer{
         left: 27vw;
         top: 7vh;
     }
+
+    .BlockText img {
+        margin-left: 24%;
+        margin-right: 2rem;
+        width: 85%;
+    }
+
+    #BlockText-medium > div > img {
+        margin-left: 2rem;
+        margin-right: 24%;
+        width: 80%;
+    }
 }
 
 /*hola*/
